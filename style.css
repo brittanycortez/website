@@ -1,0 +1,48 @@
+h1 {
+	font-family: 'Six Caps', sans-serif;
+	font-size: 65px
+}
+
+h1{
+	text-align: center
+}
+
+ul {
+	font-family: 'Antic Didone', serif;
+	font-size:20px;
+}
+
+li {
+    display: inline;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    background color:;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #cecece;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #edbaff;
+}
