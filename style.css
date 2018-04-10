@@ -46,3 +46,10 @@ li a {
 li a:hover {
     background-color: #edbaff;
 }
+article {
+    font-family: 'Six Caps', sans-serif;
+    text-align: center
+}
+p {
+    font-size: 25px
+}
