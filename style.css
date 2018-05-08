@@ -1,34 +1,21 @@
 h1 {
-	font-family: 'Six Caps', sans-serif;
-	font-size: 65px
-}
-
-h1{
-	text-align: center
+	text-align: center;
+	font-family: 'Playfair Display SC', serif;
 }
 
 ul {
-	font-family: 'Antic Didone', serif;
-	font-size:20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-li {
-    display: inline;
-}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    text-align: center;
-    background color:;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #cecece;
+    background-color: #333;
 }
 
 li {
@@ -43,13 +30,7 @@ li a {
     text-decoration: none;
 }
 
+/* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #edbaff;
-}
-article {
-    font-family: 'Six Caps', sans-serif;
-    text-align: center
-}
-p {
-    font-size: 25px
+    background-color: #111;
 }
